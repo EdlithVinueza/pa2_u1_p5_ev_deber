@@ -16,7 +16,7 @@ public class Pa2U1P5EvDeberApplication implements CommandLineRunner {
 		System.out.println("Deber de Programación Avanzada 2");
 		System.out.println("Tema: Uso de GitHub");
 		System.out.println("Nombre: Edlith Vinueza");
-		System.out.println("Este es proyecto con el cambio en main");
+		System.out.println("Cambio para la nueva rama");
 		
 	}
 
